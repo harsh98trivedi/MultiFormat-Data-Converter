@@ -1,0 +1,35 @@
+{
+  "name": "multiformat-data-converter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://harsh98trivedi.github.io/multiformat-data-converter",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "file-saver": "^2.0.5",
+    "js-yaml": "^4.1.1",
+    "lucide-react": "^0.344.0",
+    "papaparse": "^5.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.6.0",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.22",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^5.1.4"
+  }
+}
