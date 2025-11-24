@@ -2,6 +2,8 @@
 
 A modern, fast, and privacy-first data conversion tool that runs entirely in the browser. Convert between JSON, CSV, TSV, XML, YAML and plain text — no data leaves your device.
 
+![MultiFormat Data Converter](public/meta.jpg)
+
 ✨ Features
 
 - Core Formats: JSON, CSV, TSV, XML, YAML, Plain Text.
